@@ -1,5 +1,5 @@
 // src/services/LightService.ts
-import { ComponentData, ComponentsDataRecord, WiFiConnection } from '../types.js';
+import { ComponentData, ComponentsDataRecord, WiFiConnection } from '../types';
 
 class General {
     componentsData: ComponentsDataRecord = {

@@ -1,9 +1,9 @@
 // src/components/advanceSettings.ts
 'use strict'
 
-import General from '../services/LightService.js';
-import Light from './basicSettings.js';
-import { ComponentData } from '../types.js';
+// import General from '../services/LightService';
+import Light from './basicSettings';
+import { ComponentData } from '../types';
 declare const Chart: any; // Declaration for Chart.js
 
 class AdvanceSettings extends Light {
