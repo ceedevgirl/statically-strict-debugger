@@ -16,9 +16,9 @@ const wifiIcon = document.querySelector('.img_svg-container img') as HTMLImageEl
 
 
 // imports
-import Light from './components/basicSettings.js';
-import AdvanceSettings from './components/advanceSettings.js';
-import { WiFiConnection } from './types.js';
+import Light from './components/basicSettings';
+import AdvanceSettings from './components/advanceSettings';
+import { WiFiConnection } from './types';
 
 
 // object creation  

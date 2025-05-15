@@ -1,7 +1,7 @@
 // src/components/basicSettings.ts
 'use strict'
 
-import General from "../services/LightService.js";
+import General from "../services/LightService";
 import { ComponentData } from "../types";
 
 class Light extends General {
